@@ -1,0 +1,49 @@
+.h1{
+    color: #FBA90A;
+    font-variant: small-caps;
+    background-color: #2E3409;
+    text-align: center;
+    font-family: verdura;
+    font-size: 45px;
+    width: auto;
+}
+.h2{
+    color: rgb(118, 133, 21);
+    text-align: center;
+    font-family: verdura;
+    font-size: 30px;
+    width: auto;
+}
+#id{
+    text-align: right;
+    color: #2E3409;
+}
+th{
+    padding: 15px;
+    text-align: left;
+    color: #342E09;
+    text-transform: uppercase;
+}
+table, th, td{
+    padding: 10px;
+    width: auto;
+    color: #342E09;
+    border: 1px solid #2E3409;
+    border-collapse: collapse;
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    color: #342E09
+}
+a:hover{
+    color: #FBA90A;
+    font-weight: bold;
+}
+body{
+    background-color: #F7E3D4;
+}
+img{
+    height: 410px;
+    border-radius: 40px;
+}

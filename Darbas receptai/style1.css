@@ -1,0 +1,38 @@
+h1{
+    color: #FBA90A;
+    background-color: #2E3409;
+    text-align: center;
+    font-family: verdura;
+    font-size: 40px;
+    width: auto;
+}
+h2{
+    color: black;
+    text-align: left;
+    font-family: verdura;
+    font-size: 25px;
+    width: auto;
+}
+.p1{
+    color: rgb(118, 133, 21);
+    font-size: 20px;
+    font-weight: bold;
+}
+.p2{
+    color: black;
+    font-size: 15px;
+}
+.p3{
+    color: rgb(118, 133, 21);
+    font-size: 20px;
+    font-weight: bold;
+}
+body{
+    background-color: #F7E3D4;
+}
+img{
+    height: 500px;
+    float: right;
+    border-radius: 40px;
+    border: 5px solid #2E3409;
+}

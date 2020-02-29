@@ -1,0 +1,28 @@
+body{
+    background-color: #F7E0D4;
+}
+p{
+    color: #342B09;
+    font-size: 16pt;
+}
+.class1{
+    color: #FC600A;
+    font-size: 30pt;
+}
+.class2{
+    color: #FB9902;
+    font-size: 25pt;
+}
+.class3{
+    color: #AE0D7A;
+    font-size: 16pt;
+}
+#id{
+    color: #342B09;
+    font-size: 13pt;
+    text-align: right
+}
+img{
+    width: 500px;
+
+}
