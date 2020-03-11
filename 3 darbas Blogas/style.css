@@ -1,0 +1,85 @@
+.topnav{
+    background-color: whitesmoke;
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+}
+.topnav a{
+    text-decoration: none;
+    float: right;
+    color: lightslategray;
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 25px;
+    text-transform: uppercase;
+    font-family: Calibri Light;
+}
+.topnav a:hover{
+    background-color: lightslategray;
+    color: white;
+}
+body{
+    background-color: lightslategray;
+}
+h1{
+    color: #E07624;
+    display: inline-block;
+    padding-left: 30px;
+    text-transform: uppercase;
+    font-family: Calibri Light;
+}
+.topnav a:active {
+    background-color: #E07624;
+    color: whitesmoke;
+}
+section{
+    
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+img{
+    width: 450px;
+    height: 300px;
+    border-radius: 15px;
+}
+article{
+    margin: 15px;
+    display: block;
+    float: left;
+    background-color: whitesmoke;
+    width: 450px;
+    height: 700px;
+    border-radius: 15px;
+}
+.article-antraste{
+    text-align: left;
+    color: #E07624;
+    font-family: Calibri;
+    font-size: 25px;
+    padding-left: 15px;
+}
+.article-data{
+    font-family: Calibri Light;
+    padding-left: 15px;
+    color: lightslategray;
+}
+article:hover{
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+.nuoroda{
+    text-decoration: none;
+}
+.nuoroda:visited{
+    text-decoration: none;
+}
+.article-tekstas{
+    color: black;
+    font-family: Calibri Light;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 35px;
+    text-align: justify;
+}
